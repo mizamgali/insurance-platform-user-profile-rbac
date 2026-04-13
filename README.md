@@ -59,17 +59,11 @@ npm install
 npm run dev
 ```
 
-## Team Members
-- Add your 3 group member names here before submission.
+## Team Members 
 
-## Required Screenshots to Capture Before Submission
-- profile page
-- edit profile page
-- admin users page
-- create user page
-- edit user page
-- role assignment page
-- account status page
-- unauthorized access page
-- admin navigation
-- non-admin navigation
+Group Members:
+Mirshod Gaybullaev  N01731141
+Malika Mizamgaliyeva N01737493
+Navjot Singh N01746125
+Kirtan Vaghela N01742662
+Gurpal Singh N01731742
